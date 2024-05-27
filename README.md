@@ -1,2 +1,1 @@
-# ZubarskaOrdinacija
-## WinForms App
+
